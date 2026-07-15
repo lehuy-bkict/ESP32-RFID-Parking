@@ -2,6 +2,16 @@
 
 This project is an RFID-based parking access control system built with an ESP32 board, an RC522 RFID reader, a Node.js backend, MQTT, Socket.IO, MongoDB, and a React web dashboard. When an RFID card is scanned, the ESP32 reads the tag ID and sends it to the backend through MQTT. The server stores the event in MongoDB and broadcasts it to the web interface in real time.
 
+# UI
+### Home Page
+![alt text](image/home.png)
+### Realtime Check Page
+![alt text](image/RealtimeCheck.png)
+### Bar code
+![alt text](image/Barcode.png)
+### Events page
+![alt text](image/Events.png)
+
 ## Features
 - RFID-based check-in and check-out events
 - Real-time updates through MQTT and Socket.IO
