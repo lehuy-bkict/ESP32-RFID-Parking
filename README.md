@@ -7,7 +7,7 @@ This project is an RFID-based parking access control system built with an ESP32 
 ![alt text](image/home.png)
 ### Realtime Check Page
 ![alt text](image/RealtimeCheck.png)
-### Bar code
+### Barcode
 ![alt text](image/Barcode.png)
 ### Events page
 ![alt text](image/Events.png)
